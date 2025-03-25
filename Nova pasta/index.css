@@ -9,12 +9,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #5F8B4C;
     font-family: Arial, sans-serif;
 }
 
 .calculator {
-    background-color: #fff;
+    background-color: #3F7D58;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
